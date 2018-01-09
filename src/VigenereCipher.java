@@ -41,10 +41,10 @@ public class VigenereCipher {
 				}
 			}
 			
-			for (int i = 0; i < keyNumbers.length; i++) {
+			/*for (int i = 0; i < keyNumbers.length; i++) {
 				System.out.print(keyNumbers[i]);
 				System.out.print(" ");
-			}
+			}*/
 			
 			int i = 0;
 			int offset = 0;
